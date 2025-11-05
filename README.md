@@ -28,12 +28,17 @@ Originally prototyped with Firebase, now upgraded to Supabase for enhanced real-
 
    Layer → Tool
 ________________________
- ¤ Frontend → React + Vite
- ¤ Styling → TailwindCSS (Niabi custom theme)
- ¤ Authentication → Supabase Auth
- ¤ Storage / Sync → Supabase Database (planned integration)
- ¤ Build Tools → ESLint + Prettier
- ¤ Deployment → GitHub Pages / Vercel (optional)
+ ¤ Frontend → React + Vite.
+ 
+ ¤ Styling → TailwindCSS (Niabi custom theme).
+ 
+ ¤ Authentication → Supabase Auth.
+ 
+ ¤ Storage / Sync → Supabase Database (planned integration).
+ 
+ ¤ Build Tools → ESLint + Prettier.
+ 
+ ¤ Deployment → GitHub Pages / Vercel (optional).
 
 --------------------------------------------------------------------------
 
