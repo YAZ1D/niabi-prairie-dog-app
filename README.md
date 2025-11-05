@@ -27,7 +27,7 @@ Originally prototyped with Firebase, now upgraded to Supabase for enhanced real-
 🛠️ Tech Stack
 
    Layer → Tool
-________________________
+
  ¤ Frontend → React + Vite.
  
  ¤ Styling → TailwindCSS (Niabi custom theme).
@@ -44,15 +44,15 @@ ________________________
 
 🧩 Current Modules
 
-App.jsx – Root controller for login state, offline status, and observation management.
+ ¤ App.jsx – Root controller for login state, offline status, and observation management.
 
-AuthPanel.jsx – Custom Niabi-themed sign-in/sign-up panel with Supabase integration.
+ ¤ AuthPanel.jsx – Custom Niabi-themed sign-in/sign-up panel with Supabase integration.
 
-UserBar.jsx – Top bar with session info and sign-out controls (coming soon).
+ ¤ UserBar.jsx – Top bar with session info and sign-out controls (coming soon).
 
-/data/ – Local storage sync utilities (in progress).
+ ¤ /data/ – Local storage sync utilities (in progress).
 
-/assets/ – Branding and reference imagery for habitat visuals.
+ ¤ /assets/ – Branding and reference imagery for habitat visuals.
 
 --------------------------------------------------------------------------
 
